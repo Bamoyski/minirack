@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/384.1.800981714 Mobile/15E148 Safari/604.1" version="28.2.0">
   <diagram name="Page-1" id="nHnXfnMCvfvPkgMcC2QK">
-    <mxGraphModel dx="678" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="969" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,8 +120,8 @@
             <mxPoint x="452" y="259" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ugNPg4BMdh2EBdqqZRNy-8" value="Floor change&lt;div&gt;main to basement&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="405" y="310" width="60" height="30" as="geometry" />
+        <mxCell id="ugNPg4BMdh2EBdqqZRNy-8" value="Floor change, main to basement" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="405" y="310" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="ugNPg4BMdh2EBdqqZRNy-10" value="Xbox" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="440" y="570" width="110" height="50" as="geometry" />
