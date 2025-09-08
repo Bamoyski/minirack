@@ -90,6 +90,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ugNPg4BMdh2EBdqqZRNy-1" value="Most Devices" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="60" y="230" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ugNPg4BMdh2EBdqqZRNy-2" value="IOT devices" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
